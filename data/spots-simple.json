@@ -1,0 +1,301 @@
+[
+  {
+    "id": 1,
+    "name": "Merdeka Square",
+    "lat": 3.1487688,
+    "lng": 101.69363854102016,
+    "description": "Urban location. at Merdeka Square. (\nKuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur). Nearby: Info center, Kompleks Sukan Tasik Titiwangsa, Sheraton Imperial Kuala Lumpur Hotel. Verified with 5 suitable images (avg confidence: 81.9%). Rating: 4.5/5.0.",
+    "category": "Plaza",
+    "images": [
+      "images/spots/spot_1/image_1.jpg",
+      "images/spots/spot_1/image_2.jpg",
+      "images/spots/spot_1/image_3.jpg",
+      "images/spots/spot_1/image_4.jpg",
+      "images/spots/spot_1/image_5.jpg"
+    ],
+    "rating": 4.5,
+    "address": "\nKuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 2,
+    "name": "Bharat Tea Plantations Sdn. Bhd.",
+    "lat": 4.4538747,
+    "lng": 101.3680437,
+    "description": "Mountain location. at Bharat Tea Plantations Sdn. Bhd.. (\nUnit No 15 & 16, Main Road, Tanah Rata, 39000 Tanah Rata, Pahang). Nearby: Gunung Berembun, Gunung Jasar, Smaller mossy forest. Verified with 7 suitable images (avg confidence: 88.0%). Rating: 4.4/5.0.",
+    "category": "Tourist attraction",
+    "images": [
+      "images/spots/spot_8/image_1.jpg",
+      "images/spots/spot_8/image_2.jpg",
+      "images/spots/spot_8/image_3.jpg",
+      "images/spots/spot_8/image_4.jpg",
+      "images/spots/spot_8/image_5.jpg",
+      "images/spots/spot_8/image_6.jpg",
+      "images/spots/spot_8/image_7.jpg"
+    ],
+    "rating": 4.4,
+    "address": "\nUnit No 15 & 16, Main Road, Tanah Rata, 39000 Tanah Rata, Pahang",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 3,
+    "name": "Tanjung Rhu Mangrove Tour",
+    "lat": 6.35,
+    "lng": 99.8,
+    "description": "Beach location. at Tanjung Rhu Mangrove Tour. (\nPengkalan Nelayan Tanjung Rhu, Jalan Tanjung Rhu, Langkawi, Kedah, 07000 Langkawi). Nearby: Gunung Raya, Unnamed, Makam Purba. Verified with 6 suitable images (avg confidence: 83.6%). Rating: 4.5/5.0.",
+    "category": "Tourist attraction",
+    "images": [
+      "images/spots/spot_14/image_1.jpg",
+      "images/spots/spot_14/image_2.jpg",
+      "images/spots/spot_14/image_3.jpg",
+      "images/spots/spot_14/image_4.jpg",
+      "images/spots/spot_14/image_5.jpg",
+      "images/spots/spot_14/image_6.jpg"
+    ],
+    "rating": 4.5,
+    "address": "\nPengkalan Nelayan Tanjung Rhu, Jalan Tanjung Rhu, Langkawi, Kedah, 07000 Langkawi",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 4,
+    "name": "Turtle Beach",
+    "lat": 5.9167,
+    "lng": 102.7333,
+    "description": "Beach location. at Turtle Beach. (\nKuala Besut, Terengganu). Nearby: Bubu Long Beach Resort, D'Lagoon, Perhentian Island Resort. Verified with 4 suitable images (avg confidence: 80.6%). Rating: 4.7/5.0.",
+    "category": "Beach",
+    "images": [
+      "images/spots/spot_18/image_1.jpg",
+      "images/spots/spot_18/image_2.jpg",
+      "images/spots/spot_18/image_3.jpg",
+      "images/spots/spot_18/image_4.jpg"
+    ],
+    "rating": 4.7,
+    "address": "\nKuala Besut, Terengganu",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 5,
+    "name": "Sipadan Diving Reserve",
+    "lat": 4.1133,
+    "lng": 118.6281,
+    "description": "Other location. at Sipadan Diving Reserve. (\nPulau Sipadan). Nearby: Pulau Sipadan, Unnamed, Taman Pulau Sipadan. Verified with 6 suitable images (avg confidence: 78.3%). Rating: 4.0/5.0.",
+    "category": "Diving center",
+    "images": [
+      "images/spots/spot_20/image_1.jpg",
+      "images/spots/spot_20/image_2.jpg",
+      "images/spots/spot_20/image_3.jpg",
+      "images/spots/spot_20/image_4.jpg",
+      "images/spots/spot_20/image_5.jpg",
+      "images/spots/spot_20/image_6.jpg"
+    ],
+    "rating": 4.0,
+    "address": "\nPulau Sipadan",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 6,
+    "name": "Mount Kinabalu",
+    "lat": 6.075,
+    "lng": 116.5583,
+    "description": "Mountain location. at Mount Kinabalu. (\nJalan Kundasang Kauluan, Kundasang, 89308 Ranau, Sabah). Nearby: Gunung Kinabalu, Orang-Utan Viewpoint, Laban Rata. Verified with 9 suitable images (avg confidence: 81.3%). Rating: 4.8/5.0.",
+    "category": "Hiking area",
+    "images": [
+      "images/spots/spot_22/image_1.jpg",
+      "images/spots/spot_22/image_2.jpg",
+      "images/spots/spot_22/image_3.jpg",
+      "images/spots/spot_22/image_4.jpg",
+      "images/spots/spot_22/image_5.jpg",
+      "images/spots/spot_22/image_6.jpg",
+      "images/spots/spot_22/image_7.jpg",
+      "images/spots/spot_22/image_8.mpo",
+      "images/spots/spot_22/image_9.mpo"
+    ],
+    "rating": 4.8,
+    "address": "\nJalan Kundasang Kauluan, Kundasang, 89308 Ranau, Sabah",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 7,
+    "name": "Kinabalu GeoPark",
+    "lat": 6.0903565,
+    "lng": 116.16582490065018,
+    "description": "Forest location. at Kinabalu GeoPark. (\n89300 Ranau, Sabah). Verified with 13 suitable images (avg confidence: 83.5%). Rating: 4.6/5.0.",
+    "category": "National park",
+    "images": [
+      "images/spots/spot_23/image_1.jpg",
+      "images/spots/spot_23/image_2.jpg",
+      "images/spots/spot_23/image_3.jpg",
+      "images/spots/spot_23/image_4.jpg",
+      "images/spots/spot_23/image_5.jpg",
+      "images/spots/spot_23/image_6.mpo",
+      "images/spots/spot_23/image_7.jpg",
+      "images/spots/spot_23/image_8.jpg",
+      "images/spots/spot_23/image_9.jpg",
+      "images/spots/spot_23/image_10.jpg",
+      "images/spots/spot_23/image_11.jpg",
+      "images/spots/spot_23/image_12.mpo",
+      "images/spots/spot_23/image_13.jpg"
+    ],
+    "rating": 4.6,
+    "address": "\n89300 Ranau, Sabah",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 8,
+    "name": "Perdana Botanical Garden",
+    "lat": 3.14379535,
+    "lng": 101.68481694571614,
+    "description": "Other location. at Perdana Botanical Garden. (\nJalan Kebun Bunga, Tasik Perdana, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur). Nearby: Info center, Kompleks Sukan Tasik Titiwangsa, Sheraton Imperial Kuala Lumpur Hotel. Verified with 8 suitable images (avg confidence: 78.6%). Rating: 4.5/5.0.",
+    "category": "Botanical garden",
+    "images": [
+      "images/spots/spot_36/image_1.jpg",
+      "images/spots/spot_36/image_2.jpg",
+      "images/spots/spot_36/image_3.jpg",
+      "images/spots/spot_36/image_4.jpg",
+      "images/spots/spot_36/image_5.jpg",
+      "images/spots/spot_36/image_6.jpg",
+      "images/spots/spot_36/image_7.jpg",
+      "images/spots/spot_36/image_8.jpg"
+    ],
+    "rating": 4.5,
+    "address": "\nJalan Kebun Bunga, Tasik Perdana, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 9,
+    "name": "Taman Tasik Titiwangsa",
+    "lat": 3.1778255,
+    "lng": 101.70692024117648,
+    "description": "Water location. at Taman Tasik Titiwangsa. (\nJalan Kuantan, Titiwangsa, 53200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur). Nearby: Info center, Kompleks Sukan Tasik Titiwangsa, Sheraton Imperial Kuala Lumpur Hotel. Verified with 9 suitable images (avg confidence: 81.1%). Rating: 4.6/5.0.",
+    "category": "Park",
+    "images": [
+      "images/spots/spot_37/image_1.jpg",
+      "images/spots/spot_37/image_2.jpg",
+      "images/spots/spot_37/image_3.jpg",
+      "images/spots/spot_37/image_4.jpg",
+      "images/spots/spot_37/image_5.jpg",
+      "images/spots/spot_37/image_6.jpg",
+      "images/spots/spot_37/image_7.jpg",
+      "images/spots/spot_37/image_8.jpg",
+      "images/spots/spot_37/image_9.jpg"
+    ],
+    "rating": 4.6,
+    "address": "\nJalan Kuantan, Titiwangsa, 53200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 10,
+    "name": "Botanical Gardens Penang",
+    "lat": 5.4381483,
+    "lng": 100.29101025523079,
+    "description": "Water location. at Botanical Gardens Penang. (\nKompleks Pentadbiran,Bangunan Pavilion, Jalan Kebun Bunga, 10350 George Town, Pulau Pinang). Verified with 6 suitable images (avg confidence: 77.7%). Rating: 4.5/5.0.",
+    "category": "Botanical garden",
+    "images": [
+      "images/spots/spot_40/image_1.jpg",
+      "images/spots/spot_40/image_2.jpg",
+      "images/spots/spot_40/image_3.jpg",
+      "images/spots/spot_40/image_4.jpg",
+      "images/spots/spot_40/image_5.jpg",
+      "images/spots/spot_40/image_6.jpg"
+    ],
+    "rating": 4.5,
+    "address": "\nKompleks Pentadbiran,Bangunan Pavilion, Jalan Kebun Bunga, 10350 George Town, Pulau Pinang",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 11,
+    "name": "Hiking Area @ Penang National Park (Kawasan Hiking @ Taman Negara Pulau Pinang)",
+    "lat": 4.6815569,
+    "lng": 102.05592708580892,
+    "description": "Other location. at Hiking Area @ Penang National Park (Kawasan Hiking @ Taman Negara Pulau Pinang). (\nJalan Hassan Abas, 11050, Pulau Pinang). Nearby: Taman Negara Pahang Sungai Relau Merapoh, Unnamed, Unnamed. Verified with 7 suitable images (avg confidence: 84.4%). Rating: 3.1/5.0.",
+    "category": "Hiking area",
+    "images": [
+      "images/spots/spot_41/image_1.jpg",
+      "images/spots/spot_41/image_2.jpg",
+      "images/spots/spot_41/image_3.jpg",
+      "images/spots/spot_41/image_4.jpg",
+      "images/spots/spot_41/image_5.jpg",
+      "images/spots/spot_41/image_6.jpg",
+      "images/spots/spot_41/image_7.jpg"
+    ],
+    "rating": 3.1,
+    "address": "\nJalan Hassan Abas, 11050, Pulau Pinang",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 12,
+    "name": "Broga Hill Park",
+    "lat": 2.9856,
+    "lng": 101.8533,
+    "description": "Mountain location. at Broga Hill Park. (\nJln Broga, 43500 Semenyih, Selangor). Verified with 6 suitable images (avg confidence: 83.9%). Rating: 4.4/5.0.",
+    "category": "Hiking area",
+    "images": [
+      "images/spots/spot_57/image_1.jpg",
+      "images/spots/spot_57/image_2.jpg",
+      "images/spots/spot_57/image_3.jpg",
+      "images/spots/spot_57/image_4.jpg",
+      "images/spots/spot_57/image_5.jpg",
+      "images/spots/spot_57/image_6.jpg"
+    ],
+    "rating": 4.4,
+    "address": "\nJln Broga, 43500 Semenyih, Selangor",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 13,
+    "name": "Gunung Angsi Peak",
+    "lat": 2.6670069,
+    "lng": 102.0630063162474,
+    "description": "Forest location. at Gunung Angsi Peak. (\nJln Bukit Putus, Seremban, Negeri Sembilan). Nearby: Gunung Angsi, Bukit Ayer Paroi, Bukit Chupak. Verified with 7 suitable images (avg confidence: 83.6%). Rating: 4.6/5.0.",
+    "category": "Hiking area",
+    "images": [
+      "images/spots/spot_58/image_1.jpg",
+      "images/spots/spot_58/image_2.jpg",
+      "images/spots/spot_58/image_3.jpg",
+      "images/spots/spot_58/image_4.jpg",
+      "images/spots/spot_58/image_5.jpg",
+      "images/spots/spot_58/image_6.jpg",
+      "images/spots/spot_58/image_7.jpg"
+    ],
+    "rating": 4.6,
+    "address": "\nJln Bukit Putus, Seremban, Negeri Sembilan",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 14,
+    "name": "Pantai Batu Hitam",
+    "lat": 3.81006475,
+    "lng": 103.37266373014367,
+    "description": "Beach location. at Pantai Batu Hitam. (\nSouth China Sea, 26100 Kuantan, Pahang). Nearby: Hotel Classic, Grand City Hotel, Kuantan Bowling. Verified with 5 suitable images (avg confidence: 78.4%). Rating: 4.3/5.0.",
+    "category": "Public beach",
+    "images": [
+      "images/spots/spot_75/image_1.jpg",
+      "images/spots/spot_75/image_2.jpg",
+      "images/spots/spot_75/image_3.jpg",
+      "images/spots/spot_75/image_4.jpg",
+      "images/spots/spot_75/image_5.jpg"
+    ],
+    "rating": 4.3,
+    "address": "\nSouth China Sea, 26100 Kuantan, Pahang",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 15,
+    "name": "Tanjung Aru Beach Phase 1 Sunset View Point",
+    "lat": 5.9356507,
+    "lng": 116.04669810081079,
+    "description": "Beach location. at Tanjung Aru Beach Phase 1 Sunset View Point. (\n88100 Tanjong Aru, Sabah). Nearby: Perdana Park Playground, Gold Minaret Sculpture, The Crown Borneo Hotel. Verified with 6 suitable images (avg confidence: 83.6%). Rating: 3.9/5.0.",
+    "category": "Tourist attraction",
+    "images": [
+      "images/spots/spot_83/image_1.jpg",
+      "images/spots/spot_83/image_2.jpg",
+      "images/spots/spot_83/image_3.jpg",
+      "images/spots/spot_83/image_4.jpg",
+      "images/spots/spot_83/image_5.jpg",
+      "images/spots/spot_83/image_6.jpg"
+    ],
+    "rating": 3.9,
+    "address": "\n88100 Tanjong Aru, Sabah",
+    "notes": "Check local rules"
+  }
+]
