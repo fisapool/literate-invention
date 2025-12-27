@@ -1,63 +1,196 @@
 [
   {
     "id": 1,
+    "name": "Petronas Twin Towers",
+    "lat": 3.1579679,
+    "lng": 101.7112048,
+    "description": "Petronas Towers, Kuala Lumpur, Malaysia",
+    "category": "Historical landmark",
+    "images": [
+      "images/spots/spot_0/image_1.jpg",
+      "images/spots/spot_0/image_10.jpg",
+      "images/spots/spot_0/image_11.jpg",
+      "images/spots/spot_0/image_12.jpg",
+      "images/spots/spot_0/image_14.jpg",
+      "images/spots/spot_0/image_16.jpg",
+      "images/spots/spot_0/image_17.jpg",
+      "images/spots/spot_0/image_4.jpg",
+      "images/spots/spot_0/image_5.jpg",
+      "images/spots/spot_0/image_6.jpg",
+      "images/spots/spot_0/image_7.jpg",
+      "images/spots/spot_0/image_8.jpg",
+      "images/spots/spot_0/image_9.jpg",
+      "images/spots/spot_0/img_2.jpg",
+      "images/spots/spot_0/img_3.jpg"
+    ],
+    "rating": 4.7,
+    "address": "\nPetronas Twin Tower, Lower Ground (Concourse) Level, Kuala Lumpur City Centre, 50088 Kuala Lumpur",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 2,
     "name": "Merdeka Square",
     "lat": 3.1487688,
     "lng": 101.69363854102016,
     "description": "Urban location. at Merdeka Square. (\nKuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur). Nearby: Info center, Kompleks Sukan Tasik Titiwangsa, Sheraton Imperial Kuala Lumpur Hotel. Verified with 5 suitable images (avg confidence: 81.9%). Rating: 4.5/5.0.",
     "category": "Plaza",
     "images": [
-      "images/spots/spot_1/image_1.jpg",
-      "images/spots/spot_1/image_2.jpg",
-      "images/spots/spot_1/image_3.jpg",
-      "images/spots/spot_1/image_4.jpg",
-      "images/spots/spot_1/image_5.jpg"
+      "images/spots/spot_1/image_2.jpg"
     ],
     "rating": 4.5,
     "address": "\nKuala Lumpur City Centre, 50050 Kuala Lumpur, Federal Territory of Kuala Lumpur",
     "notes": "Check local rules"
   },
   {
-    "id": 2,
-    "name": "Bharat Tea Plantations Sdn. Bhd.",
-    "lat": 4.4538747,
-    "lng": 101.3680437,
-    "description": "Mountain location. at Bharat Tea Plantations Sdn. Bhd.. (\nUnit No 15 & 16, Main Road, Tanah Rata, 39000 Tanah Rata, Pahang). Nearby: Gunung Berembun, Gunung Jasar, Smaller mossy forest. Verified with 7 suitable images (avg confidence: 88.0%). Rating: 4.4/5.0.",
-    "category": "Tourist attraction",
+    "id": 3,
+    "name": "Drone Spot 11",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
     "images": [
-      "images/spots/spot_8/image_1.jpg",
-      "images/spots/spot_8/image_2.jpg",
-      "images/spots/spot_8/image_3.jpg",
-      "images/spots/spot_8/image_4.jpg",
-      "images/spots/spot_8/image_5.jpg",
-      "images/spots/spot_8/image_6.jpg",
-      "images/spots/spot_8/image_7.jpg"
+      "images/spots/spot_10/image_1.jpg"
     ],
-    "rating": 4.4,
-    "address": "\nUnit No 15 & 16, Main Road, Tanah Rata, 39000 Tanah Rata, Pahang",
+    "rating": null,
+    "address": "",
     "notes": "Check local rules"
   },
   {
-    "id": 3,
+    "id": 4,
+    "name": "Drone Spot 12",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_11/image_1.jpg",
+      "images/spots/spot_11/image_2.jpg",
+      "images/spots/spot_11/image_3.jpg",
+      "images/spots/spot_11/image_4.jpg",
+      "images/spots/spot_11/image_5.jpg",
+      "images/spots/spot_11/image_6.jpg",
+      "images/spots/spot_11/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 5,
+    "name": "Drone Spot 13",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_12/image_1.jpg",
+      "images/spots/spot_12/image_2.jpg",
+      "images/spots/spot_12/image_3.jpg",
+      "images/spots/spot_12/image_4.jpg",
+      "images/spots/spot_12/image_5.jpg",
+      "images/spots/spot_12/img_0.jpg",
+      "images/spots/spot_12/img_1.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 6,
+    "name": "Fraser's Hill Landmark",
+    "lat": 3.7130484,
+    "lng": 101.7365565,
+    "description": "Fraser's Hill colonial buildings, Pahang, Malaysia",
+    "category": "Historical landmark",
+    "images": [
+      "images/spots/spot_13/image_1.jpg",
+      "images/spots/spot_13/image_10.jpg",
+      "images/spots/spot_13/image_2.jpg",
+      "images/spots/spot_13/image_3.jpg",
+      "images/spots/spot_13/image_4.jpg",
+      "images/spots/spot_13/image_6.jpg",
+      "images/spots/spot_13/image_9.jpg",
+      "images/spots/spot_13/img_0.jpg",
+      "images/spots/spot_13/img_1.jpg"
+    ],
+    "rating": 4.8,
+    "address": "\nBukit Fraser, 27600 Fraser's Hill, Pahang",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 7,
     "name": "Tanjung Rhu Mangrove Tour",
-    "lat": 6.35,
-    "lng": 99.8,
+    "lat": 6.4528645,
+    "lng": 99.820678,
     "description": "Beach location. at Tanjung Rhu Mangrove Tour. (\nPengkalan Nelayan Tanjung Rhu, Jalan Tanjung Rhu, Langkawi, Kedah, 07000 Langkawi). Nearby: Gunung Raya, Unnamed, Makam Purba. Verified with 6 suitable images (avg confidence: 83.6%). Rating: 4.5/5.0.",
     "category": "Tourist attraction",
     "images": [
-      "images/spots/spot_14/image_1.jpg",
       "images/spots/spot_14/image_2.jpg",
       "images/spots/spot_14/image_3.jpg",
-      "images/spots/spot_14/image_4.jpg",
       "images/spots/spot_14/image_5.jpg",
-      "images/spots/spot_14/image_6.jpg"
+      "images/spots/spot_14/image_6.jpg",
+      "images/spots/spot_14/image_8.jpg"
     ],
     "rating": 4.5,
     "address": "\nPengkalan Nelayan Tanjung Rhu, Jalan Tanjung Rhu, Langkawi, Kedah, 07000 Langkawi",
     "notes": "Check local rules"
   },
   {
-    "id": 4,
+    "id": 8,
+    "name": "Drone Spot 16",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_15/image_1.jpg",
+      "images/spots/spot_15/image_2.jpg",
+      "images/spots/spot_15/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 9,
+    "name": "Drone Spot 17",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_16/image_2.jpg",
+      "images/spots/spot_16/image_4.jpg",
+      "images/spots/spot_16/image_5.jpg",
+      "images/spots/spot_16/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 10,
+    "name": "Mulu National Park Entrance",
+    "lat": 4.0443919,
+    "lng": 114.8085751,
+    "description": "Mulu Caves entrance, Sarawak, Malaysia",
+    "category": "National park",
+    "images": [
+      "images/spots/spot_17/image_1.jpg",
+      "images/spots/spot_17/image_12.jpg",
+      "images/spots/spot_17/image_2.jpg",
+      "images/spots/spot_17/image_4.jpg",
+      "images/spots/spot_17/image_6.jpg",
+      "images/spots/spot_17/image_8.jpg",
+      "images/spots/spot_17/image_9.jpg",
+      "images/spots/spot_17/img_1.jpg"
+    ],
+    "rating": 4.8,
+    "address": "\nUnnamed Rd, Malaysia, Sarawak",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 11,
     "name": "Turtle Beach",
     "lat": 5.9167,
     "lng": 102.7333,
@@ -65,16 +198,65 @@
     "category": "Beach",
     "images": [
       "images/spots/spot_18/image_1.jpg",
+      "images/spots/spot_18/image_11.jpg",
+      "images/spots/spot_18/image_16.jpg",
       "images/spots/spot_18/image_2.jpg",
       "images/spots/spot_18/image_3.jpg",
-      "images/spots/spot_18/image_4.jpg"
+      "images/spots/spot_18/image_4.jpg",
+      "images/spots/spot_18/image_9.jpg"
     ],
     "rating": 4.7,
     "address": "\nKuala Besut, Terengganu",
     "notes": "Check local rules"
   },
   {
-    "id": 5,
+    "id": 12,
+    "name": "Masjid Putra",
+    "lat": 5.4168341,
+    "lng": 100.5098557,
+    "description": "Putrajaya mosque and government buildings, Malaysia",
+    "category": "Mosque",
+    "images": [
+      "images/spots/spot_19/image_1.jpg",
+      "images/spots/spot_19/image_12.jpg",
+      "images/spots/spot_19/image_13.jpg",
+      "images/spots/spot_19/image_2.jpg",
+      "images/spots/spot_19/image_3.jpg",
+      "images/spots/spot_19/image_4.jpg",
+      "images/spots/spot_19/image_5.jpg",
+      "images/spots/spot_19/img_0.jpg"
+    ],
+    "rating": 4.7,
+    "address": "\nPersiaran Persekutuan, Presint 1, 62502 Putrajaya, Wilayah Persekutuan Putrajaya",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 13,
+    "name": "Penang Hill Funicular Train Station",
+    "lat": 5.4246532,
+    "lng": 100.2688869,
+    "description": "Penang Hill funicular station, George Town, Malaysia",
+    "category": "Park",
+    "images": [
+      "images/spots/spot_2/image_1.jpg",
+      "images/spots/spot_2/image_10.jpg",
+      "images/spots/spot_2/image_11.jpg",
+      "images/spots/spot_2/image_12.jpg",
+      "images/spots/spot_2/image_2.jpg",
+      "images/spots/spot_2/image_3.jpg",
+      "images/spots/spot_2/image_5.jpg",
+      "images/spots/spot_2/image_7.jpg",
+      "images/spots/spot_2/image_8.jpg",
+      "images/spots/spot_2/image_9.jpg",
+      "images/spots/spot_2/img_0.jpg",
+      "images/spots/spot_2/img_1.jpg"
+    ],
+    "rating": 4,
+    "address": "\nUnnamed Road, 11500 Bukit Bendera, Penang",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 14,
     "name": "Sipadan Diving Reserve",
     "lat": 4.1133,
     "lng": 118.6281,
@@ -83,17 +265,34 @@
     "images": [
       "images/spots/spot_20/image_1.jpg",
       "images/spots/spot_20/image_2.jpg",
-      "images/spots/spot_20/image_3.jpg",
       "images/spots/spot_20/image_4.jpg",
       "images/spots/spot_20/image_5.jpg",
-      "images/spots/spot_20/image_6.jpg"
+      "images/spots/spot_20/image_6.jpg",
+      "images/spots/spot_20/img_0.jpg"
     ],
-    "rating": 4.0,
+    "rating": 4,
     "address": "\nPulau Sipadan",
     "notes": "Check local rules"
   },
   {
-    "id": 6,
+    "id": 15,
+    "name": "Birch Memorial Clock Tower",
+    "lat": 4.5986817,
+    "lng": 101.0900236,
+    "description": "Ipoh old town, Perak, pre-war architecture",
+    "category": "Historical landmark",
+    "images": [
+      "images/spots/spot_21/image_1.jpg",
+      "images/spots/spot_21/image_4.jpg",
+      "images/spots/spot_21/image_8.jpg",
+      "images/spots/spot_21/img_1.jpg"
+    ],
+    "rating": 4.3,
+    "address": "\n31650 Ipoh, Perak",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 16,
     "name": "Mount Kinabalu",
     "lat": 6.075,
     "lng": 116.5583,
@@ -101,68 +300,290 @@
     "category": "Hiking area",
     "images": [
       "images/spots/spot_22/image_1.jpg",
-      "images/spots/spot_22/image_2.jpg",
-      "images/spots/spot_22/image_3.jpg",
       "images/spots/spot_22/image_4.jpg",
       "images/spots/spot_22/image_5.jpg",
       "images/spots/spot_22/image_6.jpg",
-      "images/spots/spot_22/image_7.jpg",
-      "images/spots/spot_22/image_8.mpo",
-      "images/spots/spot_22/image_9.mpo"
+      "images/spots/spot_22/image_7.jpg"
     ],
     "rating": 4.8,
     "address": "\nJalan Kundasang Kauluan, Kundasang, 89308 Ranau, Sabah",
     "notes": "Check local rules"
   },
   {
-    "id": 7,
+    "id": 17,
     "name": "Kinabalu GeoPark",
-    "lat": 6.0903565,
-    "lng": 116.16582490065018,
+    "lat": 6.2167963,
+    "lng": 116.458987,
     "description": "Forest location. at Kinabalu GeoPark. (\n89300 Ranau, Sabah). Verified with 13 suitable images (avg confidence: 83.5%). Rating: 4.6/5.0.",
     "category": "National park",
     "images": [
       "images/spots/spot_23/image_1.jpg",
+      "images/spots/spot_23/image_10.jpg",
+      "images/spots/spot_23/image_13.jpg",
       "images/spots/spot_23/image_2.jpg",
       "images/spots/spot_23/image_3.jpg",
       "images/spots/spot_23/image_4.jpg",
       "images/spots/spot_23/image_5.jpg",
-      "images/spots/spot_23/image_6.mpo",
+      "images/spots/spot_23/image_6.jpg",
       "images/spots/spot_23/image_7.jpg",
       "images/spots/spot_23/image_8.jpg",
-      "images/spots/spot_23/image_9.jpg",
-      "images/spots/spot_23/image_10.jpg",
-      "images/spots/spot_23/image_11.jpg",
-      "images/spots/spot_23/image_12.mpo",
-      "images/spots/spot_23/image_13.jpg"
+      "images/spots/spot_23/image_9.jpg"
     ],
     "rating": 4.6,
     "address": "\n89300 Ranau, Sabah",
     "notes": "Check local rules"
   },
   {
-    "id": 8,
+    "id": 18,
+    "name": "Raia Hotel & Convention Centre Alor Setar",
+    "lat": 6.1976281,
+    "lng": 100.3863813,
+    "description": "Alor Setar rice fields, Kedah, rural landscape",
+    "category": null,
+    "images": [
+      "images/spots/spot_24/image_1.jpg",
+      "images/spots/spot_24/image_12.jpg",
+      "images/spots/spot_24/image_13.jpg",
+      "images/spots/spot_24/image_6.jpg",
+      "images/spots/spot_24/image_8.jpg"
+    ],
+    "rating": 4.3,
+    "address": "Lot 3860, Mukim Titi Gajah, Seksyen 2, Bandar, 06550 Alor Setar, Kedah",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 19,
+    "name": "Drone Spot 26",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_25/image_2.jpg",
+      "images/spots/spot_25/image_3.jpg",
+      "images/spots/spot_25/image_4.jpg",
+      "images/spots/spot_25/image_5.jpg",
+      "images/spots/spot_25/img_0.jpg",
+      "images/spots/spot_25/img_1.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 20,
+    "name": "Cyberview Sdn Bhd",
+    "lat": 2.9338908,
+    "lng": 101.6455587,
+    "description": "Cyberjaya tech park, Selangor, futuristic buildings",
+    "category": "Technology park",
+    "images": [
+      "images/spots/spot_26/image_1.jpg",
+      "images/spots/spot_26/image_3.jpg",
+      "images/spots/spot_26/image_4.jpg",
+      "images/spots/spot_26/image_5.jpg"
+    ],
+    "rating": 4.3,
+    "address": "\nBlock 3750, Persiaran APEC, Cyber 8, 63000 Cyberjaya, Selangor",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 21,
+    "name": "Drone Spot 28",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_27/image_1.jpg",
+      "images/spots/spot_27/image_2.jpg",
+      "images/spots/spot_27/image_3.jpg",
+      "images/spots/spot_27/image_4.jpg",
+      "images/spots/spot_27/image_5.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 22,
+    "name": "Pulau Ubin",
+    "lat": 1.4134481,
+    "lng": 103.965943,
+    "description": "Pulau Ubin kampong houses, Singapore, rural island life",
+    "category": "Nature preserve",
+    "images": [
+      "images/spots/spot_28/image_1.jpg",
+      "images/spots/spot_28/image_10.jpg",
+      "images/spots/spot_28/image_2.jpg",
+      "images/spots/spot_28/image_3.jpg",
+      "images/spots/spot_28/image_4.jpg",
+      "images/spots/spot_28/image_5.jpg",
+      "images/spots/spot_28/image_6.jpg",
+      "images/spots/spot_28/image_7.jpg",
+      "images/spots/spot_28/image_8.jpg",
+      "images/spots/spot_28/img_0.jpg",
+      "images/spots/spot_28/img_1.jpg"
+    ],
+    "rating": 4.5,
+    "address": "\n40 Jln Endut Senin, Singapore 508291",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 23,
+    "name": "Drone Spot 30",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_29/img_0.jpg",
+      "images/spots/spot_29/img_1.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 24,
+    "name": "Kinabalu Park Headquarters",
+    "lat": 6.0055919,
+    "lng": 116.5395694,
+    "description": "Kinabalu Park HQ, Sabah, Malaysia",
+    "category": "State park",
+    "images": [
+      "images/spots/spot_3/image_1.jpg",
+      "images/spots/spot_3/image_13.jpg",
+      "images/spots/spot_3/image_15.jpg",
+      "images/spots/spot_3/image_18.jpg",
+      "images/spots/spot_3/image_2.jpg",
+      "images/spots/spot_3/image_3.jpg",
+      "images/spots/spot_3/image_4.jpg",
+      "images/spots/spot_3/image_9.jpg",
+      "images/spots/spot_3/img_0.jpg",
+      "images/spots/spot_3/img_1.jpg"
+    ],
+    "rating": 4.4,
+    "address": "\nKinabalu GeoPark, Mt, Kinabalu Park, 89300 Ranau, Sabah",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 25,
+    "name": "METT Singapore",
+    "lat": 1.2836965,
+    "lng": 103.8607226,
+    "description": "Marina Bay Sands rooftop pool, Singapore, urban panorama",
+    "category": null,
+    "images": [
+      "images/spots/spot_30/image_1.jpg",
+      "images/spots/spot_30/image_11.jpg",
+      "images/spots/spot_30/image_13.jpg",
+      "images/spots/spot_30/image_15.jpg",
+      "images/spots/spot_30/image_2.jpg",
+      "images/spots/spot_30/image_5.jpg",
+      "images/spots/spot_30/image_8.jpg",
+      "images/spots/spot_30/img_0.jpg"
+    ],
+    "rating": 4.7,
+    "address": "11 Canning Walk, Singapore 178881",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 26,
+    "name": "Village Hotel Sentosa",
+    "lat": 3.0543792,
+    "lng": 100.9723406,
+    "description": "Sentosa Island beaches, Singapore, resort island",
+    "category": null,
+    "images": [
+      "images/spots/spot_31/image_1.jpg",
+      "images/spots/spot_31/image_10.jpg",
+      "images/spots/spot_31/image_2.jpg",
+      "images/spots/spot_31/image_6.jpg",
+      "images/spots/spot_31/image_7.jpg",
+      "images/spots/spot_31/image_8.jpg",
+      "images/spots/spot_31/image_9.jpg",
+      "images/spots/spot_31/img_0.jpg",
+      "images/spots/spot_31/img_1.jpg"
+    ],
+    "rating": 4.3,
+    "address": "10 Artillery Ave, #02-01 Palawan Ridge, Sentosa Island, Singapore 099951",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 27,
+    "name": "Drone Spot 34",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_33/img_0.jpg",
+      "images/spots/spot_33/img_1.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 28,
+    "name": "Drone Spot 35",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_34/image_1.jpg",
+      "images/spots/spot_34/image_10.jpg",
+      "images/spots/spot_34/image_11.jpg",
+      "images/spots/spot_34/image_13.jpg",
+      "images/spots/spot_34/image_3.jpg",
+      "images/spots/spot_34/image_4.jpg",
+      "images/spots/spot_34/image_5.jpg",
+      "images/spots/spot_34/image_7.jpg",
+      "images/spots/spot_34/image_9.jpg",
+      "images/spots/spot_34/img_0.jpg",
+      "images/spots/spot_34/img_1.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 29,
+    "name": "Drone Spot 36",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_35/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 30,
     "name": "Perdana Botanical Garden",
     "lat": 3.14379535,
     "lng": 101.68481694571614,
     "description": "Other location. at Perdana Botanical Garden. (\nJalan Kebun Bunga, Tasik Perdana, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur). Nearby: Info center, Kompleks Sukan Tasik Titiwangsa, Sheraton Imperial Kuala Lumpur Hotel. Verified with 8 suitable images (avg confidence: 78.6%). Rating: 4.5/5.0.",
     "category": "Botanical garden",
     "images": [
-      "images/spots/spot_36/image_1.jpg",
-      "images/spots/spot_36/image_2.jpg",
-      "images/spots/spot_36/image_3.jpg",
       "images/spots/spot_36/image_4.jpg",
       "images/spots/spot_36/image_5.jpg",
       "images/spots/spot_36/image_6.jpg",
       "images/spots/spot_36/image_7.jpg",
-      "images/spots/spot_36/image_8.jpg"
+      "images/spots/spot_36/image_8.jpg",
+      "images/spots/spot_36/img_0.jpg"
     ],
     "rating": 4.5,
     "address": "\nJalan Kebun Bunga, Tasik Perdana, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
     "notes": "Check local rules"
   },
   {
-    "id": 9,
+    "id": 31,
     "name": "Taman Tasik Titiwangsa",
     "lat": 3.1778255,
     "lng": 101.70692024117648,
@@ -170,10 +591,9 @@
     "category": "Park",
     "images": [
       "images/spots/spot_37/image_1.jpg",
+      "images/spots/spot_37/image_10.jpg",
       "images/spots/spot_37/image_2.jpg",
-      "images/spots/spot_37/image_3.jpg",
       "images/spots/spot_37/image_4.jpg",
-      "images/spots/spot_37/image_5.jpg",
       "images/spots/spot_37/image_6.jpg",
       "images/spots/spot_37/image_7.jpg",
       "images/spots/spot_37/image_8.jpg",
@@ -184,7 +604,61 @@
     "notes": "Check local rules"
   },
   {
-    "id": 10,
+    "id": 32,
+    "name": "Drone Spot 39",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_38/image_1.jpg",
+      "images/spots/spot_38/image_12.jpg",
+      "images/spots/spot_38/image_2.jpg",
+      "images/spots/spot_38/image_3.jpg",
+      "images/spots/spot_38/image_4.jpg",
+      "images/spots/spot_38/image_5.jpg",
+      "images/spots/spot_38/image_7.jpg",
+      "images/spots/spot_38/image_9.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 33,
+    "name": "Drone Spot 40",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_39/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 34,
+    "name": "Drone Spot 5",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_4/image_10.jpg",
+      "images/spots/spot_4/image_11.jpg",
+      "images/spots/spot_4/image_2.jpg",
+      "images/spots/spot_4/image_3.jpg",
+      "images/spots/spot_4/image_4.jpg",
+      "images/spots/spot_4/image_6.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 35,
     "name": "Botanical Gardens Penang",
     "lat": 5.4381483,
     "lng": 100.29101025523079,
@@ -194,19 +668,19 @@
       "images/spots/spot_40/image_1.jpg",
       "images/spots/spot_40/image_2.jpg",
       "images/spots/spot_40/image_3.jpg",
-      "images/spots/spot_40/image_4.jpg",
       "images/spots/spot_40/image_5.jpg",
-      "images/spots/spot_40/image_6.jpg"
+      "images/spots/spot_40/image_6.jpg",
+      "images/spots/spot_40/img_0.jpg"
     ],
     "rating": 4.5,
     "address": "\nKompleks Pentadbiran,Bangunan Pavilion, Jalan Kebun Bunga, 10350 George Town, Pulau Pinang",
     "notes": "Check local rules"
   },
   {
-    "id": 11,
+    "id": 36,
     "name": "Hiking Area @ Penang National Park (Kawasan Hiking @ Taman Negara Pulau Pinang)",
-    "lat": 4.6815569,
-    "lng": 102.05592708580892,
+    "lat": 5.393556,
+    "lng": 100.206278,
     "description": "Other location. at Hiking Area @ Penang National Park (Kawasan Hiking @ Taman Negara Pulau Pinang). (\nJalan Hassan Abas, 11050, Pulau Pinang). Nearby: Taman Negara Pahang Sungai Relau Merapoh, Unnamed, Unnamed. Verified with 7 suitable images (avg confidence: 84.4%). Rating: 3.1/5.0.",
     "category": "Hiking area",
     "images": [
@@ -216,24 +690,275 @@
       "images/spots/spot_41/image_4.jpg",
       "images/spots/spot_41/image_5.jpg",
       "images/spots/spot_41/image_6.jpg",
-      "images/spots/spot_41/image_7.jpg"
+      "images/spots/spot_41/image_7.jpg",
+      "images/spots/spot_41/img_0.jpg"
     ],
     "rating": 3.1,
     "address": "\nJalan Hassan Abas, 11050, Pulau Pinang",
     "notes": "Check local rules"
   },
   {
-    "id": 12,
+    "id": 37,
+    "name": "Drone Spot 43",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_42/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 38,
+    "name": "Drone Spot 44",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_43/image_1.jpg",
+      "images/spots/spot_43/image_2.jpg",
+      "images/spots/spot_43/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 39,
+    "name": "Drone Spot 45",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_44/image_11.jpg",
+      "images/spots/spot_44/image_2.jpg",
+      "images/spots/spot_44/image_3.jpg",
+      "images/spots/spot_44/image_4.jpg",
+      "images/spots/spot_44/image_5.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 40,
+    "name": "Drone Spot 46",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_45/image_1.jpg",
+      "images/spots/spot_45/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 41,
+    "name": "Drone Spot 47",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_46/image_1.jpg",
+      "images/spots/spot_46/image_11.jpg",
+      "images/spots/spot_46/image_2.jpg",
+      "images/spots/spot_46/image_3.jpg",
+      "images/spots/spot_46/image_6.jpg",
+      "images/spots/spot_46/image_8.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 42,
+    "name": "Drone Spot 48",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_47/image_1.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 43,
+    "name": "Drone Spot 49",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_48/image_1.jpg",
+      "images/spots/spot_48/image_2.jpg",
+      "images/spots/spot_48/image_3.jpg",
+      "images/spots/spot_48/image_4.jpg",
+      "images/spots/spot_48/image_5.jpg",
+      "images/spots/spot_48/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 44,
+    "name": "Drone Spot 50",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_49/image_1.jpg",
+      "images/spots/spot_49/image_10.jpg",
+      "images/spots/spot_49/image_11.jpg",
+      "images/spots/spot_49/image_13.jpg",
+      "images/spots/spot_49/image_14.jpg",
+      "images/spots/spot_49/image_2.jpg",
+      "images/spots/spot_49/image_3.jpg",
+      "images/spots/spot_49/image_4.jpg",
+      "images/spots/spot_49/image_5.jpg",
+      "images/spots/spot_49/image_6.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 45,
+    "name": "Drone Spot 6",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_5/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 46,
+    "name": "Drone Spot 51",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_50/image_1.jpg",
+      "images/spots/spot_50/image_2.jpg",
+      "images/spots/spot_50/image_3.jpg",
+      "images/spots/spot_50/image_4.jpg",
+      "images/spots/spot_50/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 47,
+    "name": "Drone Spot 53",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_52/image_1.jpg",
+      "images/spots/spot_52/image_10.jpg",
+      "images/spots/spot_52/image_11.jpg",
+      "images/spots/spot_52/image_12.jpg",
+      "images/spots/spot_52/image_4.jpg",
+      "images/spots/spot_52/image_5.jpg",
+      "images/spots/spot_52/image_6.jpg",
+      "images/spots/spot_52/image_7.jpg",
+      "images/spots/spot_52/image_9.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 48,
+    "name": "Drone Spot 54",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_53/image_1.jpg",
+      "images/spots/spot_53/image_2.jpg",
+      "images/spots/spot_53/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 49,
+    "name": "Drone Spot 55",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_54/image_1.jpg",
+      "images/spots/spot_54/image_11.jpg",
+      "images/spots/spot_54/image_12.jpg",
+      "images/spots/spot_54/image_2.jpg",
+      "images/spots/spot_54/image_3.jpg",
+      "images/spots/spot_54/image_4.jpg",
+      "images/spots/spot_54/image_6.jpg",
+      "images/spots/spot_54/image_7.jpg",
+      "images/spots/spot_54/image_8.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 50,
+    "name": "Drone Spot 56",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_55/image_1.jpg",
+      "images/spots/spot_55/image_10.jpg",
+      "images/spots/spot_55/image_12.jpg",
+      "images/spots/spot_55/image_13.jpg",
+      "images/spots/spot_55/image_2.jpg",
+      "images/spots/spot_55/image_3.jpg",
+      "images/spots/spot_55/image_4.jpg",
+      "images/spots/spot_55/image_7.jpg",
+      "images/spots/spot_55/image_8.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 51,
     "name": "Broga Hill Park",
-    "lat": 2.9856,
-    "lng": 101.8533,
+    "lat": 2.9391113,
+    "lng": 101.9015444,
     "description": "Mountain location. at Broga Hill Park. (\nJln Broga, 43500 Semenyih, Selangor). Verified with 6 suitable images (avg confidence: 83.9%). Rating: 4.4/5.0.",
     "category": "Hiking area",
     "images": [
       "images/spots/spot_57/image_1.jpg",
-      "images/spots/spot_57/image_2.jpg",
       "images/spots/spot_57/image_3.jpg",
-      "images/spots/spot_57/image_4.jpg",
       "images/spots/spot_57/image_5.jpg",
       "images/spots/spot_57/image_6.jpg"
     ],
@@ -242,7 +967,7 @@
     "notes": "Check local rules"
   },
   {
-    "id": 13,
+    "id": 52,
     "name": "Gunung Angsi Peak",
     "lat": 2.6670069,
     "lng": 102.0630063162474,
@@ -250,27 +975,295 @@
     "category": "Hiking area",
     "images": [
       "images/spots/spot_58/image_1.jpg",
-      "images/spots/spot_58/image_2.jpg",
-      "images/spots/spot_58/image_3.jpg",
+      "images/spots/spot_58/image_11.jpg",
       "images/spots/spot_58/image_4.jpg",
-      "images/spots/spot_58/image_5.jpg",
       "images/spots/spot_58/image_6.jpg",
-      "images/spots/spot_58/image_7.jpg"
+      "images/spots/spot_58/image_7.jpg",
+      "images/spots/spot_58/image_9.jpg"
     ],
     "rating": 4.6,
     "address": "\nJln Bukit Putus, Seremban, Negeri Sembilan",
     "notes": "Check local rules"
   },
   {
-    "id": 14,
+    "id": 53,
+    "name": "Drone Spot 60",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_59/image_1.jpg",
+      "images/spots/spot_59/image_2.jpg",
+      "images/spots/spot_59/image_3.jpg",
+      "images/spots/spot_59/image_4.jpg",
+      "images/spots/spot_59/image_8.jpg",
+      "images/spots/spot_59/image_9.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 54,
+    "name": "Drone Spot 61",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_60/image_1.jpg",
+      "images/spots/spot_60/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 55,
+    "name": "Drone Spot 62",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_61/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 56,
+    "name": "Drone Spot 64",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_63/image_1.jpg",
+      "images/spots/spot_63/image_10.jpg",
+      "images/spots/spot_63/image_11.jpg",
+      "images/spots/spot_63/image_12.jpg",
+      "images/spots/spot_63/image_13.jpg",
+      "images/spots/spot_63/image_5.jpg",
+      "images/spots/spot_63/image_6.jpg",
+      "images/spots/spot_63/image_7.jpg",
+      "images/spots/spot_63/image_8.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 57,
+    "name": "Drone Spot 65",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_64/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 58,
+    "name": "Drone Spot 66",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_65/image_2.jpg",
+      "images/spots/spot_65/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 59,
+    "name": "Drone Spot 67",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_66/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 60,
+    "name": "Drone Spot 68",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_67/image_1.jpg",
+      "images/spots/spot_67/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 61,
+    "name": "Drone Spot 69",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_68/image_1.jpg",
+      "images/spots/spot_68/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 62,
+    "name": "Drone Spot 70",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_69/image_1.jpg",
+      "images/spots/spot_69/image_11.jpg",
+      "images/spots/spot_69/image_2.jpg",
+      "images/spots/spot_69/image_6.jpg",
+      "images/spots/spot_69/image_7.jpg",
+      "images/spots/spot_69/image_8.jpg",
+      "images/spots/spot_69/image_9.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 63,
+    "name": "Drone Spot 8",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_7/image_1.jpg",
+      "images/spots/spot_7/image_2.jpg",
+      "images/spots/spot_7/image_3.jpg",
+      "images/spots/spot_7/image_4.jpg",
+      "images/spots/spot_7/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 64,
+    "name": "Drone Spot 71",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_70/image_1.jpg",
+      "images/spots/spot_70/image_2.jpg",
+      "images/spots/spot_70/image_3.jpg",
+      "images/spots/spot_70/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 65,
+    "name": "Drone Spot 72",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_71/image_1.jpg",
+      "images/spots/spot_71/image_11.jpg",
+      "images/spots/spot_71/image_12.jpg",
+      "images/spots/spot_71/image_3.jpg",
+      "images/spots/spot_71/image_4.jpg",
+      "images/spots/spot_71/image_5.jpg",
+      "images/spots/spot_71/image_7.jpg",
+      "images/spots/spot_71/image_9.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 66,
+    "name": "Drone Spot 73",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_72/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 67,
+    "name": "Drone Spot 74",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_73/image_1.jpg",
+      "images/spots/spot_73/image_10.jpg",
+      "images/spots/spot_73/image_13.jpg",
+      "images/spots/spot_73/image_2.jpg",
+      "images/spots/spot_73/image_4.jpg",
+      "images/spots/spot_73/image_5.jpg",
+      "images/spots/spot_73/image_6.jpg",
+      "images/spots/spot_73/image_7.jpg",
+      "images/spots/spot_73/image_8.jpg",
+      "images/spots/spot_73/image_9.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 68,
+    "name": "Drone Spot 75",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_74/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 69,
     "name": "Pantai Batu Hitam",
-    "lat": 3.81006475,
-    "lng": 103.37266373014367,
+    "lat": 3.8834276,
+    "lng": 103.3623502,
     "description": "Beach location. at Pantai Batu Hitam. (\nSouth China Sea, 26100 Kuantan, Pahang). Nearby: Hotel Classic, Grand City Hotel, Kuantan Bowling. Verified with 5 suitable images (avg confidence: 78.4%). Rating: 4.3/5.0.",
     "category": "Public beach",
     "images": [
-      "images/spots/spot_75/image_1.jpg",
-      "images/spots/spot_75/image_2.jpg",
+      "images/spots/spot_75/image_11.jpg",
       "images/spots/spot_75/image_3.jpg",
       "images/spots/spot_75/image_4.jpg",
       "images/spots/spot_75/image_5.jpg"
@@ -280,7 +1273,150 @@
     "notes": "Check local rules"
   },
   {
-    "id": 15,
+    "id": 70,
+    "name": "Drone Spot 77",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_76/image_1.jpg",
+      "images/spots/spot_76/image_12.jpg",
+      "images/spots/spot_76/image_3.jpg",
+      "images/spots/spot_76/image_8.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 71,
+    "name": "Drone Spot 78",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_77/image_10.jpg",
+      "images/spots/spot_77/image_13.jpg",
+      "images/spots/spot_77/image_14.jpg",
+      "images/spots/spot_77/image_15.jpg",
+      "images/spots/spot_77/image_16.jpg",
+      "images/spots/spot_77/image_18.jpg",
+      "images/spots/spot_77/image_2.jpg",
+      "images/spots/spot_77/image_3.jpg",
+      "images/spots/spot_77/image_5.jpg",
+      "images/spots/spot_77/image_6.jpg",
+      "images/spots/spot_77/image_7.jpg",
+      "images/spots/spot_77/image_8.jpg",
+      "images/spots/spot_77/image_9.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 72,
+    "name": "Drone Spot 79",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_78/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 73,
+    "name": "Drone Spot 80",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_79/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 74,
+    "name": "Bharat Tea Plantations Sdn. Bhd.",
+    "lat": 4.4538747,
+    "lng": 101.3680437,
+    "description": "Mountain location. at Bharat Tea Plantations Sdn. Bhd.. (\nUnit No 15 & 16, Main Road, Tanah Rata, 39000 Tanah Rata, Pahang). Nearby: Gunung Berembun, Gunung Jasar, Smaller mossy forest. Verified with 7 suitable images (avg confidence: 88.0%). Rating: 4.4/5.0.",
+    "category": "Tourist attraction",
+    "images": [
+      "images/spots/spot_8/image_10.jpg",
+      "images/spots/spot_8/image_2.jpg",
+      "images/spots/spot_8/image_3.jpg",
+      "images/spots/spot_8/image_4.jpg",
+      "images/spots/spot_8/image_5.jpg",
+      "images/spots/spot_8/image_7.jpg",
+      "images/spots/spot_8/image_8.jpg",
+      "images/spots/spot_8/image_9.jpg",
+      "images/spots/spot_8/img_0.jpg"
+    ],
+    "rating": 4.4,
+    "address": "\nUnit No 15 & 16, Main Road, Tanah Rata, 39000 Tanah Rata, Pahang",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 75,
+    "name": "Drone Spot 81",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_80/image_1.jpg",
+      "images/spots/spot_80/image_10.jpg",
+      "images/spots/spot_80/image_12.jpg",
+      "images/spots/spot_80/image_15.jpg",
+      "images/spots/spot_80/image_16.jpg",
+      "images/spots/spot_80/image_17.jpg",
+      "images/spots/spot_80/image_5.jpg",
+      "images/spots/spot_80/image_6.jpg",
+      "images/spots/spot_80/image_8.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 76,
+    "name": "Drone Spot 82",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_81/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 77,
+    "name": "Drone Spot 83",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_82/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 78,
     "name": "Tanjung Aru Beach Phase 1 Sunset View Point",
     "lat": 5.9356507,
     "lng": 116.04669810081079,
@@ -289,13 +1425,219 @@
     "images": [
       "images/spots/spot_83/image_1.jpg",
       "images/spots/spot_83/image_2.jpg",
-      "images/spots/spot_83/image_3.jpg",
-      "images/spots/spot_83/image_4.jpg",
-      "images/spots/spot_83/image_5.jpg",
-      "images/spots/spot_83/image_6.jpg"
+      "images/spots/spot_83/image_4.jpg"
     ],
     "rating": 3.9,
     "address": "\n88100 Tanjong Aru, Sabah",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 79,
+    "name": "Drone Spot 85",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_84/image_1.jpg",
+      "images/spots/spot_84/image_10.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 80,
+    "name": "Drone Spot 86",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_85/image_1.jpg",
+      "images/spots/spot_85/image_10.jpg",
+      "images/spots/spot_85/image_12.jpg",
+      "images/spots/spot_85/image_13.jpg",
+      "images/spots/spot_85/image_3.jpg",
+      "images/spots/spot_85/image_7.jpg",
+      "images/spots/spot_85/image_8.jpg",
+      "images/spots/spot_85/image_9.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 81,
+    "name": "Drone Spot 87",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_86/image_1.jpg",
+      "images/spots/spot_86/image_2.jpg",
+      "images/spots/spot_86/image_4.jpg",
+      "images/spots/spot_86/image_5.jpg",
+      "images/spots/spot_86/image_6.jpg",
+      "images/spots/spot_86/image_8.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 82,
+    "name": "Drone Spot 88",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_87/image_12.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 83,
+    "name": "Drone Spot 89",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_88/image_1.jpg",
+      "images/spots/spot_88/image_11.jpg",
+      "images/spots/spot_88/image_2.jpg",
+      "images/spots/spot_88/image_6.jpg",
+      "images/spots/spot_88/image_7.jpg",
+      "images/spots/spot_88/image_8.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 84,
+    "name": "Drone Spot 90",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_89/image_1.jpg",
+      "images/spots/spot_89/image_10.jpg",
+      "images/spots/spot_89/image_11.jpg",
+      "images/spots/spot_89/image_2.jpg",
+      "images/spots/spot_89/image_3.jpg",
+      "images/spots/spot_89/image_4.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 85,
+    "name": "Cameron Valley Tea View point",
+    "lat": 4.4710791,
+    "lng": 101.3751732,
+    "description": "Cameron Highlands tea plantation view, Pahang, Malaysia",
+    "category": "Scenic spot",
+    "images": [
+      "images/spots/spot_9/image_1.jpg",
+      "images/spots/spot_9/image_2.jpg",
+      "images/spots/spot_9/image_3.jpg",
+      "images/spots/spot_9/image_5.jpg",
+      "images/spots/spot_9/image_6.jpg",
+      "images/spots/spot_9/image_8.jpg",
+      "images/spots/spot_9/image_9.jpg",
+      "images/spots/spot_9/img_0.jpg"
+    ],
+    "rating": 4.6,
+    "address": "\n59, Tanah Rata, 39000 Tanah Rata, Pahang",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 86,
+    "name": "Drone Spot 91",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_90/image_1.jpg",
+      "images/spots/spot_90/image_12.jpg",
+      "images/spots/spot_90/image_13.jpg",
+      "images/spots/spot_90/image_2.jpg",
+      "images/spots/spot_90/image_3.jpg",
+      "images/spots/spot_90/image_7.jpg",
+      "images/spots/spot_90/image_9.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 87,
+    "name": "Drone Spot 93",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_92/img_0.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 88,
+    "name": "Drone Spot 94",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_93/image_10.jpg",
+      "images/spots/spot_93/image_11.jpg",
+      "images/spots/spot_93/image_14.jpg",
+      "images/spots/spot_93/image_16.jpg",
+      "images/spots/spot_93/image_17.jpg",
+      "images/spots/spot_93/image_19.jpg",
+      "images/spots/spot_93/image_2.jpg",
+      "images/spots/spot_93/image_20.jpg",
+      "images/spots/spot_93/image_3.jpg",
+      "images/spots/spot_93/image_5.jpg",
+      "images/spots/spot_93/image_7.jpg",
+      "images/spots/spot_93/image_8.jpg",
+      "images/spots/spot_93/image_9.jpg"
+    ],
+    "rating": null,
+    "address": "",
+    "notes": "Check local rules"
+  },
+  {
+    "id": 89,
+    "name": "Drone Spot 95",
+    "lat": 0,
+    "lng": 0,
+    "description": "Beautiful drone location",
+    "category": "Nature",
+    "images": [
+      "images/spots/spot_94/image_1.jpg",
+      "images/spots/spot_94/image_11.jpg",
+      "images/spots/spot_94/image_2.jpg",
+      "images/spots/spot_94/image_5.jpg",
+      "images/spots/spot_94/image_6.jpg",
+      "images/spots/spot_94/image_7.jpg",
+      "images/spots/spot_94/image_8.jpg",
+      "images/spots/spot_94/image_9.jpg"
+    ],
+    "rating": null,
+    "address": "",
     "notes": "Check local rules"
   }
 ]
